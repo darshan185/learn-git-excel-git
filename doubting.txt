@@ -1,1 +1,21 @@
-i just opened this to clear a doubt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git diff -HEAD command
+
+
+ am making some changes to test the 
+
+
+
