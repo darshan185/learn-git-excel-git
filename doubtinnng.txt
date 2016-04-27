@@ -1,0 +1,12 @@
+
+
+
+
+i just opened this to clear a doubt
+
+
+
+
+using this to learn hoe to use git -diff HEAD 
+
+
